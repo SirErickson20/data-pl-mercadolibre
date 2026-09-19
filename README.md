@@ -44,20 +44,3 @@ Este proyecto simula una prueba técnica para un perfil de **Data Analyst / Data
 
 ---
 
-## 🚀 Instrucciones de Ejecución
-
-### Prerrequisitos
-Asegúrate de tener instalado Python 3.9 o superior.
-
-### Clonación e Instalación
-```bash
-# 1. Clonar el repositorio
-git clone [https://github.com/tu-usuario/marketplace-eda-challenge.git](https://github.com/tu-usuario/marketplace-eda-challenge.git)
-cd marketplace-eda-challenge
-
-# 2. Crear entorno virtual (opcional pero recomendado)
-python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
-
-# 3. Instalar dependencias
-pip install -r requirements.txt
